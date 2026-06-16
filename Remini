@@ -7,10 +7,6 @@
   "buttonText": " DOWNLOAD ",
   "buttonUrl": "https://telegram.me/EpicModder",
   "cancelButtonText": "Close",
-  "appListButton": {
-    "iconUrl1": "https://bit.ly/EM_ClickMe",
-    "iconUrl2": "https://bit.ly/EM_ClickMe2"
-  },
   "appList": [
     {
       "iconUrl": "https://bit.ly/icon_CapCut",
@@ -43,7 +39,7 @@
       "url": "https://telegram.me/EpicModder"
     },
     {
-      "iconUrl": "https://bit.ly/itshehzadaProfile",
+      "iconUrl": "",
       "url": ""
     },
     {
