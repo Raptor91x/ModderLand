@@ -4,33 +4,7 @@
   "forceUpdate": false,
   "ExpiredDate": "2025/11/22 02:20",
   "description": "Official Release v4.0 is out!\nNew UI elements and themes.\nEnhanced performance and stability.\n Subscription free download \n new update available best performance",
-  "buttonText": " DOWNLOAD ",
-  "buttonUrl": "https://telegram.me/EpicModder",
-  "cancelButtonText": "Close",
-  "appList": [
-    {
-      "iconUrl": "https://bit.ly/icon_CapCut",
-      "appName": "CapCut PRO",
-      "appVersion": "20.2.0",
-      "url": "https://telegram.me/EpicModder"
-    },
-    {
-      "iconUrl": "https://bit.ly/icon_PandaVPN",
-      "appName": "Panda VPN Lifetime",
-      "appVersion": "8.0.1",
-      "url": "https://t.me/c/2138847088/1281"
-    },
-    {
-      "iconUrl": "https://bit.ly/icon_Remini",
-      "appName": "Remini PRO",
-      "appVersion": "3.7.1070.202515697",
-      "url": "https://t.me/c/2138847088/1324"
-    },
-    {
-      "iconUrl": "ADD_YOU_IMAGE",
-      "appName": "Unknown",
-      "appVersion": "0.0.0",
-      "url": "https://telegram.me/EpicModder"
-    }
-  ]
+  "buttonText": " 🅾 𝐅𝐨𝐥𝐥𝐨𝐰 ",
+  "buttonUrl": "https://www.instagram.com/gagan.xp",
+  "cancelButtonText": "𝐂𝐥𝐨𝐬𝐞"
 }
